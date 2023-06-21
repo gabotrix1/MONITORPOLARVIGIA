@@ -61,6 +61,12 @@ body,html {
 .heart-rate-wrapper button:hover {
     opacity: 1
 }
+.background-image {
+    background-image: url('https://raw.githubusercontent.com/gabotrix1/MONITORPOLARVIGIA/main/WhatsApp%20Image%202023-05-27%20at%2011.09.52%20AM.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 .heart-rate-wrapper button.blue {
     background: -webkit-gradient(linear,left top,right top,from(#72cabe),to(#3F9C91));
