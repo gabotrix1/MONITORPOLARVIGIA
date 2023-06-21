@@ -1,0 +1,112 @@
+Uri: https://dmitryolkhovoi.github.io/vue-web-bluetooth-api-heart-rate-app/
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\vue-web-bluetooth-api-heart-rate-app\index.htm
+Content Type: text/html
+
+Uri: https://dmitryolkhovoi.github.io/vue-web-bluetooth-api-heart-rate-app/css/app.04ad18c4.css
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\vue-web-bluetooth-api-heart-rate-app\css\app.04ad18c4.css
+Content Type: text/css
+
+Uri: https://dmitryolkhovoi.github.io/vue-web-bluetooth-api-heart-rate-app/img/icons/apple-touch-icon-152x152.png
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\vue-web-bluetooth-api-heart-rate-app\img\icons\apple-touch-icon-152x152.png
+Content Type: image/png
+
+Uri: https://dmitryolkhovoi.github.io/vue-web-bluetooth-api-heart-rate-app/img/icons/favicon-16x16.png
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\vue-web-bluetooth-api-heart-rate-app\img\icons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://dmitryolkhovoi.github.io/vue-web-bluetooth-api-heart-rate-app/img/icons/favicon-32x32.png
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\vue-web-bluetooth-api-heart-rate-app\img\icons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://dmitryolkhovoi.github.io/vue-web-bluetooth-api-heart-rate-app/img/icons/safari-pinned-tab.svg
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\vue-web-bluetooth-api-heart-rate-app\img\icons\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://dmitryolkhovoi.github.io/vue-web-bluetooth-api-heart-rate-app/js/app.a80ffd5d.js
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\vue-web-bluetooth-api-heart-rate-app\js\app.a80ffd5d.js
+Content Type: application/javascript
+
+Uri: https://dmitryolkhovoi.github.io/vue-web-bluetooth-api-heart-rate-app/js/chunk-vendors.d34b1037.js
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\vue-web-bluetooth-api-heart-rate-app\js\chunk-vendors.d34b1037.js
+Content Type: application/javascript
+
+Uri: https://dmitryolkhovoi.github.io/vue-web-bluetooth-api-heart-rate-app/manifest.json
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\vue-web-bluetooth-api-heart-rate-app\manifest.json
+Content Type: application/json
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/css/all.css
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\releases\v5.1.0\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-brands-400.eot
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\releases\v5.1.0\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-brands-400.eot?
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\releases\v5.1.0\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-brands-400.svg
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\releases\v5.1.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-brands-400.ttf
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\releases\v5.1.0\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-brands-400.woff
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\releases\v5.1.0\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-brands-400.woff2
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\releases\v5.1.0\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-regular-400.eot
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\releases\v5.1.0\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-regular-400.eot?
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\releases\v5.1.0\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-regular-400.svg
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\releases\v5.1.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-regular-400.ttf
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\releases\v5.1.0\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-regular-400.woff
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\releases\v5.1.0\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-regular-400.woff2
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\releases\v5.1.0\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-solid-900.eot
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\releases\v5.1.0\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-solid-900.eot?
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\releases\v5.1.0\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-solid-900.svg
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\releases\v5.1.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-solid-900.ttf
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\releases\v5.1.0\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-solid-900.woff
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\releases\v5.1.0\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-solid-900.woff2
+File Name: C:\Users\Usuario\Documents\ARCHIVOS PROYECTO VIGIA\dmitryolkhovoi.github.io\releases\v5.1.0\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
