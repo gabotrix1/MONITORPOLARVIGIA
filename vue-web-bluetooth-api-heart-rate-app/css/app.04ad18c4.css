@@ -38,7 +38,7 @@ body,html {
 }
 
 .heart-rate-wrapper .fa-heartbeat {
-    background: -webkit-linear-gradient(#1a3ec2,#8f48ed);
+    background: -webkit-linear-gradient(#72cabe,#3f9c91);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: var(--heart-font-size)
