@@ -1,7 +1,7 @@
-## Heart rate app using Vue.js and Web Bluetooth API
-![](https://habrastorage.org/webt/hf/u4/xs/hfu4xsmncuusjlifimhga-nxwt0.png)
+## Heart Rate Monitor Vigía Project using Vue.js and Web Bluetooth API
+![](https://github.com/gabotrix1/MONITORPOLARVIGIA/blob/main/WhatsApp%20Image%202023-05-27%20at%2011.09.52%20AM.jpeg)
 
-[Demo](https://dmitryolkhovoi.github.io/vue-web-bluetooth-api-heart-rate-app/)
+[Demo Vigia Monitor Health](https://monitorpolarvigia.vercel.app/)
 
 Clone this repo then:
 ```
